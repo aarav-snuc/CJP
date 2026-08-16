@@ -8,3 +8,4 @@ DevOps Lab - Exercise 3
 
 ## Project Status
 Login module implemented and tested by Student B.
+Registration module implemented and tested by Student C.
