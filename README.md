@@ -7,4 +7,4 @@ DevOps Lab - Exercise 3
 - Student C (Developer 2)
 
 ## Project Status
-Initial setup completed by Student A.
+Login module implemented and tested by Student B.
