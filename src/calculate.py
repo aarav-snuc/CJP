@@ -1,2 +1,2 @@
 def calculate():
-    print("Calculation")
+    print("Calc")
